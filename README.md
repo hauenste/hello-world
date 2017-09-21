@@ -1,3 +1,3 @@
 # hello-world
-First Repository
-The README is beeing changed
+
+The README was changed to try out git.
