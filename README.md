@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+The README was changed to try out git.
